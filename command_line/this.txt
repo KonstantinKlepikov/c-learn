@@ -1,0 +1,3 @@
+this is fine /home/kklepikov
+this is fine /home/kklepikov
+this is fine $HOME
