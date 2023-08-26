@@ -1,6 +1,6 @@
 # c-learn
 
-## c compile
+## c-compile
 
 - use `*.h` files
 - `gcc -c this.c` -> this.o
